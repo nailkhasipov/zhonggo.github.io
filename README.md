@@ -1,2 +1,2 @@
-# zhonggo.github.io
-zhonggo app website
+# Джунго
+Вебсайт проекта Джунго
